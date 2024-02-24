@@ -1,0 +1,22 @@
+div{
+    height: 200px;
+    width: 500px;
+    background-color: plum;
+    border: 2px solid black;
+    border-radius: 5px;
+    /* for all */
+    padding: 50px;  
+    /* top-bottom ,right-left */
+    padding: 10px 50px;
+    /* top ,right-left,bottom */
+    padding:5px 100px 30px;
+    /* clockwise top,right,bottom,left */
+    padding: 1px 20px 1px 20px;
+
+    margin: 25px;
+    margin: 10px 20px 30px;
+   
+}
+h1{
+    border: 2px dashed purple;
+}

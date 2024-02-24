@@ -1,0 +1,16 @@
+span{
+    background-color: rgb(196, 50, 50);
+    border: 2px solid black;
+    margin: 200px;
+    cursor: pointer;
+    padding: 100px;
+}
+p{
+    background-color: rgb(252, 247, 247);
+    border: 2px solid black;
+    height: 100px;
+    margin: 20px;
+    cursor: pointer;
+    padding: 100px;
+    width: 500px;
+}
